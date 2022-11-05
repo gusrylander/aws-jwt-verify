@@ -2,10 +2,10 @@ node_modules
 .vscode
 __scratchpads
 .python-version
-dist
+# dist
 coverage
 
-*.js
+# *.js
 !.eslintrc.js
 !jest.config.js
 junit.xml
