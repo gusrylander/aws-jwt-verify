@@ -5,7 +5,8 @@
     "baseUrl": "./src",
     "paths": {
       "#node-web-compat": ["node-web-compat-node.ts"] // https://github.com/microsoft/TypeScript/issues/44848
-    }
+    },
+    "types": ["node"]
   },
   "include": ["src/**/*"]
 }
